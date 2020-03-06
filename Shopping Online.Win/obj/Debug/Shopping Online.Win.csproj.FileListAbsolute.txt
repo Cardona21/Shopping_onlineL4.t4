@@ -1,0 +1,9 @@
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\bin\Debug\Shopping Online.Win.exe.config
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\bin\Debug\Shopping Online.Win.exe
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\bin\Debug\Shopping Online.Win.pdb
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\Shopping Online.Win.csprojResolveAssemblyReference.cache
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\Shopping_Online.Win.Form1.resources
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\Shopping_Online.Win.Properties.Resources.resources
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\Shopping Online.Win.csproj.GenerateResource.Cache
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\Shopping Online.Win.exe
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\Shopping Online.Win.pdb

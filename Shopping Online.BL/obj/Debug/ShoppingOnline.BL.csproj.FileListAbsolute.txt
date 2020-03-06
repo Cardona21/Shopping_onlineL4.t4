@@ -1,0 +1,25 @@
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\bin\Debug\Shopping Online.BL.dll
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\bin\Debug\Shopping Online.BL.pdb
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\obj\Debug\ShoppingOnline.BL.csprojResolveAssemblyReference.cache
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\obj\Debug\Shopping Online.BL.dll
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.BL\obj\Debug\Shopping Online.BL.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\bin\Debug\Shopping Online.BL.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\bin\Debug\Shopping Online.BL.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\obj\Debug\ShoppingOnline.BL.csprojResolveAssemblyReference.cache
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\obj\Debug\Shopping Online.BL.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\obj\Debug\Shopping Online.BL.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\bin\Debug\Shopping Online.BL.dll.config
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\bin\Debug\EntityFramework.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\bin\Debug\EntityFramework.xml
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eliaz\Downloads\SHOPPING_ONLINE_L4-master\Shopping Online.BL\bin\Debug\Shopping Online.BL.dll.config
+C:\Users\eliaz\Downloads\SHOPPING_ONLINE_L4-master\Shopping Online.BL\bin\Debug\Shopping Online.BL.dll
+C:\Users\eliaz\Downloads\SHOPPING_ONLINE_L4-master\Shopping Online.BL\bin\Debug\Shopping Online.BL.pdb
+C:\Users\eliaz\Downloads\SHOPPING_ONLINE_L4-master\Shopping Online.BL\bin\Debug\EntityFramework.dll
+C:\Users\eliaz\Downloads\SHOPPING_ONLINE_L4-master\Shopping Online.BL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\eliaz\Downloads\SHOPPING_ONLINE_L4-master\Shopping Online.BL\bin\Debug\EntityFramework.xml
+C:\Users\eliaz\Downloads\SHOPPING_ONLINE_L4-master\Shopping Online.BL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\eliaz\Downloads\SHOPPING_ONLINE_L4-master\Shopping Online.BL\obj\Debug\ShoppingOnline.BL.csprojResolveAssemblyReference.cache
+C:\Users\eliaz\Downloads\SHOPPING_ONLINE_L4-master\Shopping Online.BL\obj\Debug\Shopping Online.BL.dll
+C:\Users\eliaz\Downloads\SHOPPING_ONLINE_L4-master\Shopping Online.BL\obj\Debug\Shopping Online.BL.pdb

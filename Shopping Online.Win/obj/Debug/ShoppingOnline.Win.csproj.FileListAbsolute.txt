@@ -1,0 +1,26 @@
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\bin\Debug\Shopping Online.Win.exe.config
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\Shopping Online.Win.exe
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\Shopping Online.Win.pdb
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\bin\Debug\Shopping Online.Win.exe
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\bin\Debug\Shopping Online.Win.pdb
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\bin\Debug\Shopping Online.BL.dll
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\bin\Debug\Shopping Online.BL.pdb
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\ShoppingOnline.Win.csprojResolveAssemblyReference.cache
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\Shopping_Online.Win.Form1.resources
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\Shopping_Online.Win.Properties.Resources.resources
+C:\Users\moren\Downloads\Shopping-Online-master\Shopping Online.Win\obj\Debug\ShoppingOnline.Win.csproj.GenerateResource.Cache
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\Shopping Online.Win.exe.config
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\Shopping Online.Win.exe
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\Shopping Online.Win.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\Shopping Online.BL.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\Shopping Online.BL.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\obj\Debug\ShoppingOnline.Win.csprojResolveAssemblyReference.cache
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\obj\Debug\Shopping_Online.Win.Form1.resources
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\obj\Debug\Shopping_Online.Win.Properties.Resources.resources
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\obj\Debug\ShoppingOnline.Win.csproj.GenerateResource.Cache
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\obj\Debug\Shopping Online.Win.exe
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\obj\Debug\Shopping Online.Win.pdb
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\EntityFramework.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\EntityFramework.xml
+C:\Users\moren\OneDrive\Escritorio\Shopping_L4\SHOPPING_ONLINE_L4\Shopping Online.Win\bin\Debug\EntityFramework.SqlServer.xml

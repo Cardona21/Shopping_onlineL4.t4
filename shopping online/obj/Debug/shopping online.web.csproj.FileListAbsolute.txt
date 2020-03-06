@@ -1,0 +1,52 @@
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\ApplicationInsights.config
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\csc.exe
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\vbc.exe
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\VBCSCompiler.exe
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\shopping online.dll.config
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\shopping online.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\shopping online.pdb
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.AI.Web.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.ApplicationInsights.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Helpers.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Mvc.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Razor.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Webpages.Deployment.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Webpages.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Webpages.Razor.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.AI.Web.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.ApplicationInsights.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Razor.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Webpages.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Webpages.Deployment.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Webpages.Razor.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Helpers.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\System.Web.Mvc.xml
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\es\System.Web.Razor.resources.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\es\System.Web.Webpages.resources.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\es\System.Web.Webpages.Deployment.resources.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\es\System.Web.Webpages.Razor.resources.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\es\System.Web.Helpers.resources.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\bin\es\System.Web.Mvc.resources.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\obj\Debug\shopping online.web.csprojResolveAssemblyReference.cache
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\obj\Debug\shopping online.dll
+C:\Users\moren\Downloads\Shopping-Online-master\shopping online\obj\Debug\shopping online.pdb

@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\moren\\OneDrive\\Escritorio\\Shopping_L4\\SHOPPING_ONLINE_L4\\shopping online\\shoppingonline.web.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 703
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
